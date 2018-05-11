@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: Alejandro Escalante
+description: una pagina personal
+show_downloads: true
+other:
+  home: https://alejandroescalantemtz.github.io/
+  docs: https://alejandroescalantemtz.github.io/docs/document_index.html
+  about: https://alejandroescalantemtz.github.io/pages/about.html
